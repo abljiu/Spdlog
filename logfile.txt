@@ -1,0 +1,4 @@
+[2023-05-18 20:36:19.701] [file_logger] [info] Total sum of squares: 385
+[2023-05-21 18:49:09.764] [file_logger] [info] Total sum of squares: 385
+[2023-05-21 18:50:19.365] [file_logger] [info] Total sum of squares: 385
+[2023-05-21 19:50:20.714] [file_logger] [info] Total sum of squares: 385
